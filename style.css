@@ -1,0 +1,10 @@
+.html h1 {
+    text-align: center;
+    color: black;
+    background-color: aqua;
+}
+
+.html table {
+    align-self: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
